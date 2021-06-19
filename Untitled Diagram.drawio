@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T09:03:25.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="D6IkZ4edDwvfMWGQmDd2" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-19T09:08:42.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="8dQx4CeySokKkQSyhWGU" version="14.8.0" type="github">
   <diagram id="4VK42Dbmwc7l5CnfM7Ee" name="Page-1">
-    <mxGraphModel dx="1878" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,44 @@
         </mxCell>
         <mxCell id="XOTThE4RcaoDm8LRYg5e-10" value="Chatting" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-18" target="XOTThE4RcaoDm8LRYg5e-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-18" target="XOTThE4RcaoDm8LRYg5e-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-18" target="XOTThE4RcaoDm8LRYg5e-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-18" target="XOTThE4RcaoDm8LRYg5e-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-18" value="Influencer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="880" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-21" value="Create Profile" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-22" value="Update Profile" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="283" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-23" value="Chat" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="930" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-24" value="Receive Payment" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1020" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-25" value="Report users" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1080" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="570" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
