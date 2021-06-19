@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T09:08:42.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="8dQx4CeySokKkQSyhWGU" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-19T09:14:01.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="sg1am9aF86c22TAMKrIP" version="14.8.0" type="github">
   <diagram id="4VK42Dbmwc7l5CnfM7Ee" name="Page-1">
     <mxGraphModel dx="1426" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,8 +84,44 @@
         <mxCell id="XOTThE4RcaoDm8LRYg5e-25" value="Report users" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="1080" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XOTThE4RcaoDm8LRYg5e-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="570" width="30" height="60" as="geometry" />
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-33" target="XOTThE4RcaoDm8LRYg5e-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-33" target="XOTThE4RcaoDm8LRYg5e-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-33" target="XOTThE4RcaoDm8LRYg5e-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-33" target="XOTThE4RcaoDm8LRYg5e-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-33" target="XOTThE4RcaoDm8LRYg5e-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XOTThE4RcaoDm8LRYg5e-33" target="XOTThE4RcaoDm8LRYg5e-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-33" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-34" value="View Users" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-35" value="View Report" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-36" value="Block User" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-37" value="Assign Role" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="650" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-38" value="View Orders" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTThE4RcaoDm8LRYg5e-39" value="Chat" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="960" y="790" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
